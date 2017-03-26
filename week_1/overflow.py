@@ -1,3 +1,8 @@
+# Fábio Dayrell Ferreira Martins Rosa | 2011054383
+# Overflow (OVERF09)
+# Simplesmente recebe o valor máximo, realizo a operação e verifico se o resultado
+# é maior que o valor máximo recebido
+
 def operation(overflow, equation):
     num1,signal,num2 = equation.split(' ')
 

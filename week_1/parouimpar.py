@@ -1,3 +1,10 @@
+# Fábio Dayrell Ferreira Martins Rosa | 2011054383
+# Par ou ímpar (PAR)
+# Enquanto o número de rounds for diferente de zero, o programa vai armazenando
+# em um vetor o vencedor de cada rodada. Antes de cada rodada, adiciono ao vetor
+# a string Teste *número da rodada* e ao fim adiciono uma string vazia. Ao fim do
+# programa imprimo o vetor
+
 plays = []
 results = []
 teste = 1
